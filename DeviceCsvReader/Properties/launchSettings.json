@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DeviceCsvReader": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CsvFileName": "C:\\Users\\draco\\OneDrive\\Dokumenter\\CsvReaderTest\\devices.csv",
+        "CsvOutputType": "Console"
+      }
+    }
+  }
+}
